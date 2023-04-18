@@ -1,0 +1,1 @@
+export const STORED_USER = "STORED_USER"
